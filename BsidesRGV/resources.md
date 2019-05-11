@@ -9,6 +9,13 @@
 - [Hack the Box](https://www.hackthebox.eu)
 - [Girls Taking Over](https://twitter.com/LadiesCTFCircle)
 - [CTF Time](https://ctftime.org/)
+- [Over the Wire](https://overthewire.org/)
+- [Game of Hacks](http://gameofhacks.com/)
+- [KringleCon](https://kringlecon.com)
+- [Permanent CTF List](http://captf.com/practice-ctf/)
+- [BlackHoodie CTF Workshop 2018](https://github.com/tharina/BlackHoodie-2018-Workshop)
+- [CTF InfoSec Institute](http://ctf.infosecinstitute.com/)
+- [HackerOne](http://ctf.infosecinstitute.com/)
 
 ## Linux 
 - [Distro Watch](https://distrowatch.com/)
