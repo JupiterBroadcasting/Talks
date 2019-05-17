@@ -1,3 +1,4 @@
-# Containers:
+# Mentoring 101 Quick Version
+## How do I get a mentor? 
 
-## What you need to know; so you know what you need to know.
+Slides for Mentoring 101 Quick Version presnted at Sa Devs group. 
